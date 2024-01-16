@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nes/static/css/main.a3561e47.css",
+    "main.js": "/nes/static/js/main.ad8edac1.js",
+    "index.html": "/nes/index.html",
+    "main.a3561e47.css.map": "/nes/static/css/main.a3561e47.css.map",
+    "main.ad8edac1.js.map": "/nes/static/js/main.ad8edac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3561e47.css",
+    "static/js/main.ad8edac1.js"
+  ]
+}
