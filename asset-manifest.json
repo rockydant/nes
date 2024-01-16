@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nes/static/css/main.a3561e47.css",
-    "main.js": "/nes/static/js/main.2075392f.js",
+    "main.js": "/nes/static/js/main.d0e2d39e.js",
     "index.html": "/nes/index.html",
     "main.a3561e47.css.map": "/nes/static/css/main.a3561e47.css.map",
-    "main.2075392f.js.map": "/nes/static/js/main.2075392f.js.map"
+    "main.d0e2d39e.js.map": "/nes/static/js/main.d0e2d39e.js.map"
   },
   "entrypoints": [
     "static/css/main.a3561e47.css",
-    "static/js/main.2075392f.js"
+    "static/js/main.d0e2d39e.js"
   ]
 }
